@@ -1,12 +1,12 @@
 {
   "name": "geocoder-js-tattek",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "authors": [
     "Brandon Morrison <brandon@brandonmorrison.com>"
   ],
   "main": "dist/geocoder.min.js",
   "license": "MIT",
-  "private": true,
+  "private": false,
   "ignore": [
     "**/.*",
     "node_modules",

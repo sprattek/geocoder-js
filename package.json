@@ -12,5 +12,6 @@
   "scripts": {
     "build": "grunt --verbose",
     "test": "grunt ci --verbose"
-  }
+  },
+  "main": "./dist/geocoder.min.js"
 }
